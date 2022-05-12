@@ -1,23 +1,7 @@
 import Image from "next/image"
 import React, { useContext, useRef, useState, useCallback } from "react"
-import { ScrollContext } from "../utils/scroll-observer"
 
 const Masthead: React.FC = () => {
-  const [imageLoaded, setImageLoaded] = useState(false)
-  const refContainer = useRef<HTMLDivElement>(null)
-  const { scrollY } = useContext(ScrollContext)
-
-  let progress = 0
-
-  const { current: elContainer } = refContainer
-  if (elContainer) {
-    progress = Math.min(1, scrollY / elContainer.clientHeight)
-  }
-  
-  const handleImageLoaded = useCallback(() => {
-    setImageLoaded(true)
-  }, [])
-
   return (
     <div ref={refContainer} className="min-h-screen flex flex-col items-center justify-center sticky top-0 -z-10" style={{transform: `translateY(-${progress * 20}vh)`}}>
       <video autoPlay loop muted playsInline className="absolute w-full h-full object-cover">
