@@ -1,2 +1,2 @@
-# dabaz
-DabAZ's website
+# DabAZ's Website
+This is the repository for DabAZ's Website.
