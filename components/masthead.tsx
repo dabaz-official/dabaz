@@ -17,10 +17,8 @@ const Masthead: React.FC = () => {
           Digital Craftsman
         </h2>
       </div>
-      <div className={`flex-grow-0 pb-20 mb:pb-10 transition-all duration-1000 ${
-        imageLoaded ? 'opacity-100' : 'opacity-0 -translate-y-10'
-      }`}>
-        <Image src="/assets/arrow-down.png" width={188 / 3} height={188 / 3} alt="scroll down" onLoad={handleImageLoaded} />
+      <div className={`flex-grow-0 pb-20 mb:pb-10 transition-all duration-1000`}>
+        <Image src="/assets/arrow-down.png" width={188 / 3} height={188 / 3} alt="scroll down" />
       </div>
     </div>
   )
