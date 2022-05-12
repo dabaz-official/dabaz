@@ -3,7 +3,7 @@ import React, { useContext, useRef, useState, useCallback } from "react"
 
 const Masthead: React.FC = () => {
   return (
-    <div className="min-h-screen flex flex-col items-center justify-center sticky top-0 -z-10" style={{transform: `translateY(-${progress * 20}vh)`}}>
+    <div className="min-h-screen flex flex-col items-center justify-center sticky top-0 -z-10">
       <video autoPlay loop muted playsInline className="absolute w-full h-full object-cover">
         <source src="/assets/bg.mp4" type="video/mp4; codecs=hvc1;" />
         <source src="/assets/bg.webm" type="video/webm; codecs=vp9" />
