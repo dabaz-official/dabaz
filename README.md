@@ -4,18 +4,18 @@ This is the [repository](https://github.com/dabaz-official/dabaz/) for [DabAZ's 
 
 ## Ingredients
 
-- [*Next.JS*](https://www.electronjs.org/)
-  A framework for building cross-platform desktop apps with JS, HTML, and CSS
-- [**Vite**](https://vitejs.dev/)
-  A fast build tool for web apps (webpack alternative)
+- [**Next.JS**](https://nextjs.org/)
+  React Framework
+- [**Tailwind CSS**](https://tailwindcss.com/)
+  CSS Framework
 - [**TypeScript**](https://www.typescriptlang.org/)
-  A typed JavaScript language
-- [**React**](https://reactjs.org/)
-  A JS library for building UI
-- [**CodeMirror 6**](https://codemirror.net/6/)
-  An extensible code editor for the web
-- [**Remark**](https://remark.js.org/)
-  An extensible Markdown processor
+  JavaScript with syntax for types
+- [**Vercel**](https://reactjs.org/)
+  Platform to deploy
+- [**Formspree**](https://formspree.io/)
+  Contact form backend
+- [**Remark**](https://www.embla-carousel.com/)
+  Carousel layout library
 
 ## Want to work with me?
 
