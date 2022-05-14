@@ -4,17 +4,17 @@ This is the [repository](https://github.com/dabaz-official/dabaz/) for [DabAZ's 
 
 ## Ingredients
 
-- [**Next.JS**](https://nextjs.org/)
+- [**Next.JS**](https://nextjs.org/) - 
   React Framework
-- [**Tailwind CSS**](https://tailwindcss.com/)
+- [**Tailwind CSS**](https://tailwindcss.com/) - 
   CSS Framework
-- [**TypeScript**](https://www.typescriptlang.org/)
+- [**TypeScript**](https://www.typescriptlang.org/) - 
   JavaScript with syntax for types
-- [**Vercel**](https://reactjs.org/)
+- [**Vercel**](https://reactjs.org/) - 
   Platform to deploy
-- [**Formspree**](https://formspree.io/)
+- [**Formspree**](https://formspree.io/) - 
   Contact form backend
-- [**Remark**](https://www.embla-carousel.com/)
+- [**Remark**](https://www.embla-carousel.com/) - 
   Carousel layout library
 
 ## Want to work with me?
