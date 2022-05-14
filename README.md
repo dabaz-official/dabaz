@@ -26,4 +26,4 @@ You can also contact me via
 - [Twitter](https://twitter.com/dab_az/)
 - [LinkedIn (InCareer)](https://www.linkedin.cn/incareer/in/diebold-dai-816814177)
 - [Personal Website](https://dabaz.vercel.app)
-- [Another Personal Website](https://dabazofficial.com)
+- [Another Personal Website](http://dabazofficial.com)
