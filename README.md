@@ -14,8 +14,6 @@ This is the [repository](https://github.com/dabaz-official/dabaz/) for [DabAZ's 
   Platform to deploy
 - [**Formspree**](https://formspree.io/) - 
   Contact form backend
-- [**Remark**](https://www.embla-carousel.com/) - 
-  Carousel layout library
 
 ## Want to work with me?
 
