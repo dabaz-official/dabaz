@@ -7,7 +7,7 @@ const Footer: React.FC = () => (
     <a href="https://www.instagram.com/dabaz_luvs_hot_girls/" target="_blank" rel="noreferrer">Instagram</a>
     <a href="https://twitter.com/dab_az" target="_blank" rel="noreferrer">Twitter</a>
     <a href="https://github.com/dabaz-official" target="_blank" rel="noreferrer">Github</a>
-    <a href="mailto:dieboldhan123@gmail.com">E-mail</a>
+    <a href="mailto:dabaz.official@skiff.com">E-mail</a>
   </footer>
 )
 
