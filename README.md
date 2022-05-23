@@ -10,7 +10,7 @@ This is the [repository](https://github.com/dabaz-official/dabaz/) for [DabAZ's 
   CSS Framework
 - [**TypeScript**](https://www.typescriptlang.org/) - 
   JavaScript with syntax for types
-- [**Vercel**](https://reactjs.org/) - 
+- [**Vercel**](https://vercel.com/) - 
   Platform to deploy
 - [**Formspree**](https://formspree.io/) - 
   Contact form backend
